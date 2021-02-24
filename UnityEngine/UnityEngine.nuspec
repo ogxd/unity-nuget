@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>UnityEngine</id>
+    <version>2019.3.2.1</version>
+    <authors>Unity Technologies</authors>
+    <owners>Unity Technologies</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">license.txt</license>
+    <projectUrl>https://unity3d.com/</projectUrl>
+    <icon>favicon.png</icon>
+    <description>UnityEngine assembly from Editor/Data/Managed for reference in Unity script modules or cross reference in .NET Core `asmdef`ed projects. I DO NOT OWN THE RIGHSTS TO UNITY ENGINE.</description>
+    <releaseNotes>2019.3.2f1</releaseNotes>
+  </metadata>
+  <files>
+    <file src="..\Files\license.txt" target="" />
+    <file src="..\Files\favicon.png" target="" />
+  </files>
+</package>
