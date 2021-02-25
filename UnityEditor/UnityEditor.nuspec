@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>UnityTechnologies.UnityEditor</id>
-    <version>2019.3.2.1</version>
+    <version>2020.2.2.1</version>
     <authors>Unity Technologies</authors>
     <owners>Unity Technologies</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -10,7 +10,7 @@
     <projectUrl>https://unity3d.com/</projectUrl>
     <icon>favicon.png</icon>
     <description>UnityEditor assembly from Editor/Data/Managed to use as reference for development on dependent librairies. Property of Unity Technologies. See license.</description>
-    <releaseNotes>2019.3.2f1</releaseNotes>
+    <releaseNotes>2020.2.2f1</releaseNotes>
   </metadata>
   <files>
     <file src=".\lib\*.dll" target="lib" />
